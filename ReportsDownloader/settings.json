@@ -1,0 +1,8 @@
+{
+  "ReplaceIfExists": true,
+  "DestionationPath": "reports",
+  "Domain": "",
+  "Login": "",
+  "Password": "",
+  "ReportingServicesReportsUrl": ""
+}
